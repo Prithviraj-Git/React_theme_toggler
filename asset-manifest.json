@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_theme_toggler/static/css/main.06cddf1a.chunk.css",
+    "main.js": "/React_theme_toggler/static/js/main.00420df3.chunk.js",
+    "main.js.map": "/React_theme_toggler/static/js/main.00420df3.chunk.js.map",
+    "runtime-main.js": "/React_theme_toggler/static/js/runtime-main.0b896ed5.js",
+    "runtime-main.js.map": "/React_theme_toggler/static/js/runtime-main.0b896ed5.js.map",
+    "static/js/2.a0ee6de8.chunk.js": "/React_theme_toggler/static/js/2.a0ee6de8.chunk.js",
+    "static/js/2.a0ee6de8.chunk.js.map": "/React_theme_toggler/static/js/2.a0ee6de8.chunk.js.map",
+    "static/js/3.1d8a6ce5.chunk.js": "/React_theme_toggler/static/js/3.1d8a6ce5.chunk.js",
+    "static/js/3.1d8a6ce5.chunk.js.map": "/React_theme_toggler/static/js/3.1d8a6ce5.chunk.js.map",
+    "index.html": "/React_theme_toggler/index.html",
+    "static/css/main.06cddf1a.chunk.css.map": "/React_theme_toggler/static/css/main.06cddf1a.chunk.css.map",
+    "static/js/2.a0ee6de8.chunk.js.LICENSE.txt": "/React_theme_toggler/static/js/2.a0ee6de8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b896ed5.js",
+    "static/js/2.a0ee6de8.chunk.js",
+    "static/css/main.06cddf1a.chunk.css",
+    "static/js/main.00420df3.chunk.js"
+  ]
+}
